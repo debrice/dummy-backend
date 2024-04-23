@@ -18,7 +18,7 @@
     "@types/node-static": "^0.7.3",
     "@types/uuid": "^7.0.2",
     "@types/yargs": "^15.0.4",
-    "formidable": "^1.2.2",
+    "formidable": "^3.2.4",
     "lodash": "^4.17.19",
     "mime-types": "^2.1.26",
     "node-static": "^0.7.11",
